@@ -1,3 +1,3 @@
-#Icons generators
+# Icons generators
 
 - https://realfavicongenerator.net/
